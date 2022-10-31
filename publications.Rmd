@@ -1,0 +1,27 @@
+---
+title: "Publications"
+description: |
+  Here one can find publications using the COSMO data set
+---
+
+Lilleholt, L., Böhm, R., & Zettler, I. (under review). Who comments, commends, and complains in online scientific studies?
+
+Lilleholt, L., Zettler, I., Betsch, C., & Böhm, R. (under review). Pandemic fatigue: Measurement, correlates, and consequences. (Preprint: <https://psyarxiv.com/2xvbr/>)
+
+Jirsa, V. K., Petkoski, S., Wang, H., Woodman, M., Fousek, J., Betsch, C., Felgendreff, L., Böhm, R., Lilleholt, L., Zettler, I., Faber, S. M., Shen, K., & McIntosh, A. R. (2022). Integrating psychosocial variables and societal diversity in epidemic models for predicting COVID-19 transmission dynamics. PLOS Digital Health, 1, e0000098. (Preprint: <https://www.medrxiv.org/content/10.1101/2020.08.12.20173252v1>)
+
+Rees, F., Geiger, M., Lilleholt, L., Zettler, I., Betsch, C., Böhm, R., & Wilhelm, O. (2022). Measuring parents' readiness to vaccinate themselves and their children against COVID-19. Vaccine, 40, 3825-3834. (Preprint: <https://psyarxiv.com/wrgce/>)
+
+Geiger, M., Rees, F., Lilleholt, L., Santana, A. P., Zettler, I. Wilhelm, O., Betsch, C., & Böhm, R. (2022). Measuring the 7Cs of vaccination readiness. European Journal of Psychological Assessment, 38, 261-269.
+
+Kaufmann, T. H., Lilleholt, L., Böhm, R., Zettler, I., & Heck, D. W. (2022). Sensitive attitudes and adherence to recommendations during the COVID-19 pandemic: Comparing direct and indirect questioning techniques. Personality and Individual Differences, 190, 111525. (Preprint: <https://psyarxiv.com/tp6ja/>)
+
+Zettler, I., Schild, C., Lilleholt, L., Kroencke, L., Utesch, T., Moshagen,M., Böhm, R., Back, M. D., & Geukes, K. (2022). The role of personality in COVID-19 related perceptions, evaluations, and behaviours: Findings across five samples, nine traits, and 17 criteria. Social Psychological and Personality Science, 13, 299-310. (Preprint: <https://psyarxiv.com/pkm2a/>)
+
+Pummerer, L., Böhm, R., Lilleholt,L., Winter, K., Zettler, I., & Sassenberg, K. (2022). Conspiracy theories and their societal effects during the COVID-19 pandemic. Social Psychological and Personality Science, 13, 49-59. (Preprint: <https://psyarxiv.com/y5grn/>)
+
+Zettler, I., Lilleholt, L., Böhm, R., & Gondan, M. (2021). Comparing responses in repeated cross-sectional and panel studies: Results across eight weeks during the first COVID-19 lockdown in Denmark. Psychological Assessment, 33, 691-704.
+
+Böhm, R., Lilleholt, L., Meineche, J. T., Strandsbjerg, C. F., Windfeld, A., Windfeld, F. C., & Zettler, I. (2020). The COVID-19 Snapshot Monitoring in Denmark. Samfundsøkonomen, 4, 62-69.
+
+Böhm, R., Lilleholt, L., Zettler, I., & COSMO Denmark group (2020). Denmark COVID-19 Snapshot MOnitoring (COSMO Denmark): Monitoring knowledge, risk perceptions, preventive behaviours, and public trust in the current coronavirus outbreak in Denmark. PsychArchives.

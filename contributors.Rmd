@@ -1,0 +1,89 @@
+---
+title: "Contributors"
+---
+
+## Project Lead
+
+![](https://lh5.googleusercontent.com/xHZPt18P5Jps3SLIkb6x2BqdqQUVfHihZyAhzKuxVFqTUG-yFT4IXpXlcMnUTvqAwytNmOFqxooOry76cGW_zUpvABeiK9f_F-EuIIcyAlXXTYxy225atf8DqOLiIYQoi2rSXQgQGUOC9oYVgPefF56xOLK5KXqdoGf8Xw4x9r2sP2PPtFihjZ8fDw){width="50%"}
+
+<a href="https://www.robertboehm.info/" style="color: darkred; text-decoration: none;text-decoration-style: none;">Robert Böhm</a>, Faculty of Psychology at the University of Vienna, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
+
+PICTURE LAU
+
+Lau Lilleholt, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
+
+\
+
+PICTURE INGO
+
+Ingo Zettler, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
+
+\
+
+## **Student assistants**
+
+Josefine T. Meineche
+
+Cecilie F. Strandsberg
+
+Andreas Windfeld
+
+Frederik C. Windfeld
+
+\
+
+## **Collaborators**
+
+Mitja D. Back (University of Münster)
+
+Cornelia Betsch (University of Erfurt)
+
+Sarah Faber (Rotman Research Institute of Baycrest Centre, University of Toronto)
+
+Lisa Felgendreff (University of Erfurt)
+
+Jan Fousek (Institut de Neurosciences des Systèmes UMR INSERM 1106, Aix-Marseille Université)
+
+Mattis Geiger (Ulm University)
+
+Katharina Geukes (University of Münster)
+
+Matthias Gondan (University of Innsbruck)
+
+Daniel W. Heck (University of Marburg)
+
+Viktor K. Jirsa (Institut de Neurosciences des Systèmes UMR INSERM 1106, Aix-Marseille Université)
+
+Tabea H. Kaufmann (University of Marburg)
+
+Lara Kroencke (University of Münster)
+
+Anthony R. Mcintosh (Rotman Research Institute of Baycrest Centre, University of Toronto)
+
+Morten Moshagen (Ulm University)
+
+Spase Petkoski (Institut de Neurosciences des Systèmes UMR INSERM 1106, Aix-Marseille Université)
+
+Lotte Pummerer (Leibnitz-Institut für Wissensmedien, Tübingen)
+
+Franziska Rees (Ulm University)
+
+Ana P. Santana (University of Copenhagen)
+
+Kai Sassenberg (Leibnitz-Institut für Wissensmedien, Tübingen & University of Tübingen)
+
+Christoph Schild (University of Siegen)
+
+Kelly Shen (Rotman Research Institute of Baycrest Centre, University of Toronto)
+
+Till Utesch (University of Münster)
+
+Huifang Wang (Institut de Neurosciences des Systèmes UMR INSERM 1106, Aix-Marseille Université)
+
+Oliver Wilhelm (Ulm University)
+
+Kevin Winter (Leibnitz-Institut für Wissensmedien, Tübingen)
+
+Marmaduke Woodman (Institut de Neurosciences des Systèmes UMR INSERM 1106, Aix-Marseille Université)
+
+\
