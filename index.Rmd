@@ -1,5 +1,5 @@
 ---
-title: " About Cosmo"
+title: " About COSMO"
 description: |
   COVID-19 Snapshot Monitoring (COSMO) in Denmark
 ---
