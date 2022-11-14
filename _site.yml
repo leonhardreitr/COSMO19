@@ -1,7 +1,7 @@
 name: "cosmo-denmark.dk"
-title: "Cosmo"
+title: "COSMO"
 description: |
-  Cosmo
+  COSMO
 theme: theme.css
 output_dir: "_site"
 navbar:

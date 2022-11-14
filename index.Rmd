@@ -6,6 +6,4 @@ description: |
 
 The COSMO Denmark project assessed Danish citizens' knowledge, perceptions, and behaviors related to the coronavirus (SARS-CoV-2) and the associated coronavirus disease (COVID-19) over time. The project started in March 2019 and ended in September 2021. On this website, we provide information about [methods](method.html){style="color: darkred;"}, [data](data.html){style="color: darkred;"}, [publications](publications.html){style="color: darkred;"}, [contributors](contributors.html){style="color: darkred;"}, and [funding](funding.html){style="color: darkred;"} of COSMO Denmark.
 
-COSMO Denmark is a non-profit research project carried out by the University of Copenhagen. COSMO Denmark is part of the [Behavioral Insights on COVID-19 survey network initiative coordinated by the World Health Organization/Regional Office for Europe](https://www.who.int/europe/tools-and-toolkits/who-tool-for-behavioural-insights-on-covid-19){style="text-decoration: none;"}[.]{.underline}
-
-![](images/cdc-w9KEokhajKw-unsplash.jpg){width="600"}
+COSMO Denmark is a non-profit research project carried out by the University of Copenhagen. COSMO Denmark is part of the [Behavioral Insights on COVID-19 survey network initiative coordinated by the World Health Organization/Regional Office for Europe](https://www.who.int/europe/tools-and-toolkits/who-tool-for-behavioural-insights-on-covid-19){style="text-decoration: none;"}[.]{.underline}![](covid_pic.jpg)
