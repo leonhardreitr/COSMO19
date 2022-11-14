@@ -1,5 +1,5 @@
 ---
 title: "Method"
-description: Work in progress
+description: Work in progress TEST IF GIT WORKS
 ---
 Here we need to provide some basic information on: sampling method, sample, number and timing of measurement occasions, basic concept of variable assessment (some recurring variables constantly adapted and extended based on the pandemic situation, specific survey/experimental elements on specific sub-questions often in collaboration with other researchers). 
