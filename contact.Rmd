@@ -2,3 +2,5 @@
 title: Contact
 ---
 If you have questions, want to get access to data, or for any other reason, please write us an email to: info@domain.dk
+
+IMPRESSUM STILL MISSING YET
