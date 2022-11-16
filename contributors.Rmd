@@ -2,7 +2,7 @@
 title: "Contributors"
 ---
 
-## Project Lead
+## Project lead (in alphabetical order)
 
 ![](https://lh5.googleusercontent.com/xHZPt18P5Jps3SLIkb6x2BqdqQUVfHihZyAhzKuxVFqTUG-yFT4IXpXlcMnUTvqAwytNmOFqxooOry76cGW_zUpvABeiK9f_F-EuIIcyAlXXTYxy225atf8DqOLiIYQoi2rSXQgQGUOC9oYVgPefF56xOLK5KXqdoGf8Xw4x9r2sP2PPtFihjZ8fDw){width="50%"}
 
@@ -13,8 +13,7 @@ PICTURE LAU
 Lau Lilleholt, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
 
 \
-
-PICTURE INGO
+![](images/ingo_photo.jpg){width="75%"}
 
 Ingo Zettler, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
 
