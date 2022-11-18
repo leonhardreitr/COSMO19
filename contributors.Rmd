@@ -4,22 +4,19 @@ title: "Contributors"
 
 ## Project lead (in alphabetical order)
 
-![](https://lh5.googleusercontent.com/xHZPt18P5Jps3SLIkb6x2BqdqQUVfHihZyAhzKuxVFqTUG-yFT4IXpXlcMnUTvqAwytNmOFqxooOry76cGW_zUpvABeiK9f_F-EuIIcyAlXXTYxy225atf8DqOLiIYQoi2rSXQgQGUOC9oYVgPefF56xOLK5KXqdoGf8Xw4x9r2sP2PPtFihjZ8fDw){width="50%"}
+![](https://lh3.googleusercontent.com/cuV7-CVRkQR-LWTmdEbauxfYwrhH7GhGd1X5prfP6I0YAmcn_qFR4Dj7bRECluaKYhrS0Sk_8OyOhPHH3gSpAFyehmpt7vRBrg5MIQvizpLHZ7zHLfwg4Vqr4zVpVrKzLtFqgdIFH5BAvDCYeB9cI7IwSj0ju4WggCgaRWdx6ZE15nyEMXGZix0xT0dWqw){width="50%"}
 
-<a href="https://www.robertboehm.info/" style="color: darkred; text-decoration: none;text-decoration-style: none;">Robert Böhm</a>, Faculty of Psychology at the University of Vienna, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
+[Robert Böhm](https://www.robertboehm.info/), Faculty of Psychology at the University of Vienna, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
 
-PICTURE LAU
+![](https://lh4.googleusercontent.com/3Ed_A29R4ld9BqiCn-uhM2msKJR7WWlYjUcWbdXDtvBDm29OFfpW4VcNC0kOQUFXVccTGrz9kEIx7sTX63s5gzT4dH0fJ0k-5fRbdqusPQXCATkJy9IszcsJrblOApa5ejXKBGj6LfISjz2bOGupGr8ipuTWEcjpF5qcCKhpZ5_0RDniDGqaG7nzgv9-pg){width="50%"}
 
 Lau Lilleholt, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
 
-\
 ![](images/ingo_photo.jpg){width="75%"}
 
 Ingo Zettler, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
 
-\
-
-## **Student assistants**
+\## \*\*Student assistants\*\*
 
 Josefine T. Meineche
 
@@ -29,9 +26,7 @@ Andreas Windfeld
 
 Frederik C. Windfeld
 
-\
-
-## **Collaborators**
+## \*\*Collaborators\*\*
 
 Mitja D. Back (University of Münster)
 
@@ -84,5 +79,3 @@ Oliver Wilhelm (Ulm University)
 Kevin Winter (Leibnitz-Institut für Wissensmedien, Tübingen)
 
 Marmaduke Woodman (Institut de Neurosciences des Systèmes UMR INSERM 1106, Aix-Marseille Université)
-
-\
