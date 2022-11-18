@@ -2,7 +2,7 @@
 title: "Contributors"
 ---
 
-## Project lead (in alphabetical order) WEBSITE LAU/INGO MISSING
+## Project lead (in alphabetical order)
 
 ![](images/Robert.jpg){width="50%"}
 
@@ -10,11 +10,11 @@ title: "Contributors"
 
 ![](images/Lau.jpg){width="50%"}
 
-Lau Lilleholt, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
+[Lau Lilleholt](https://psychology.ku.dk/research/research_clusters/copsy/?pure=en/persons/630696), Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
 
 ![](images/ingo_photo.jpg){width="75%"}
 
-Ingo Zettler, Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
+[Ingo Zettler](https://psychology.ku.dk/research/research_clusters/copsy/?pure=en/persons/473161), Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
 
 ## Student assistants
 
