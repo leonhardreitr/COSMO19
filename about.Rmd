@@ -1,7 +1,7 @@
 ---
 title: "Cosmo"
 description: |
-  About the COVID-19 Snapshot Monitoring (COSMO) in Denmark
+  About the COVID-19 Snapshot Monitoring (COSMO) in Denmark 
 ---
 The COSMO Denmark project assessed Danish citizens' knowledge, perceptions, and behaviors related to the coronavirus (SARS-CoV-2) and the associated coronavirus disease (COVID-19) over time. The project started in March 2019 and ended in September 2021.
 
