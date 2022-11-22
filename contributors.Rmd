@@ -14,7 +14,7 @@ title: "Contributors"
 
 ![](images/ingo_photo.jpg){width="75%"}
 
-[Ingo Zettler](https://psychology.ku.dk/research/research_clusters/copsy/?pure=en/persons/473161), Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
+[Ingo Zettler](https://scholar.google.com/citations?hl=de&user=lyQCGAEAAAAJ&view_op=list_works&sortby=pubdate), Department of Psychology and Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
 
 ## Student assistants
 
