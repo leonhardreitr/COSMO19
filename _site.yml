@@ -20,4 +20,6 @@ navbar:
       href: funding.html
     - text: "Contact"
       href: contact.html
+    - text: "Impressum"
+      href: impressum.html
 output: distill::distill_article
