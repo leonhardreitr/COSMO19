@@ -8,4 +8,6 @@ The COSMO Denmark project assessed Danish citizens' knowledge, perceptions, and 
 
 On this website, we provide information about methods, data, publications, contributors, and funding of COSMO Denmark.
 
-COSMO Denmark is a non-profit research project carried out by the University of Copenhagen. COSMO Denmark is part of the Behavioral Insights on COVID-19 survey network initiative coordinated by the World Health Organization/Regional Office for Europe.![](docs/images/corona.jpg){width="100%"}
+COSMO Denmark is a non-profit research project carried out by the University of Copenhagen. COSMO Denmark is part of the Behavioral Insights on COVID-19 survey network initiative coordinated by the World Health Organization/Regional Office for Europe.
+
+*Photo missing*
