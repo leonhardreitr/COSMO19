@@ -3,7 +3,7 @@ title: "COSMO"
 description: |
   COSMO
 theme: theme.css
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
