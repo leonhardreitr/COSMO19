@@ -1,6 +1,5 @@
 ---
 title: "Method"
-description: Work in progress
 ---
 
 From March 2020 to September 2021 COSMO-Denmark monitored people's knowledge, perceptions, emotions, and behavioral reactions related to COVID-19. To this end, COSMO-Denmark relied on a mixture of weekly, biweekly, and monthly repeated cross-sectional surveys and panel surveys.
