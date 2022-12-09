@@ -1,0 +1,9 @@
+---
+title: "Accessibility Statement"
+output: distill::distill_article
+---
+We are committed to ensuring that our website is accessible to everyone, regardless of ability or technology.
+
+If you encounter any accessibility issues while using our website, please [contact us](mailto:info@domain.dk) and we will do our best to resolve the issue.
+
+Thank you for visiting our website.
